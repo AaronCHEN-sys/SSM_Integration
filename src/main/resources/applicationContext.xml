@@ -38,5 +38,5 @@
         <property name="basePackage" value="com.java.mapper"></property>
 
     </bean>
-    
+
 </beans>

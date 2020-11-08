@@ -4,4 +4,8 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
 
+    <!--配置别名-->
+
+    <!--配置PageHelper插件-->
+
 </configuration>
