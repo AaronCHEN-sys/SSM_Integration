@@ -17,7 +17,6 @@ import java.util.Map;
  * @see
  */
 @Controller
-@RequestMapping("/house")
 public class HouseController {
 
     @Autowired
