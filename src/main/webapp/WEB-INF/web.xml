@@ -6,7 +6,7 @@
 
     <!--欢迎首页-->
     <welcome-file-list>
-        <welcome-file></welcome-file>
+        <welcome-file>/pages/admin/test.jsp</welcome-file>
     </welcome-file-list>
 
     <!--处理中文乱码的过滤器: CharacterEncodingFilter-->
